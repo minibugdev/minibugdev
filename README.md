@@ -1,10 +1,7 @@
 ### Hi there 👋
+My name Pop, I'm <samp>‹Android Developer›</samp> who love to sleep.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="32px">
-  <br><br>
-  <samp>‹Android Developer›</samp>
-</p>
+<a href='https://github.com/minibugdev?tab=repositories'><img src='https://github-readme-stats.vercel.app/api?username=minibugdev&show_icons=true&hide_border&title_color=000000&icon_color=000000&hide=commits&include_all_commits=true&count_private=true' /></a>
 
 <!--
 **minibugdev/minibugdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
