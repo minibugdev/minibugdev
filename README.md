@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name Pop, I'm <samp>‹Android Developer›</samp> who love to sleep.
+My name Pop, I'm <samp><Software Engineer›</samp> who love to code and sleep.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=minibugdev&show_icons=true&icon_color=000000&hide=commits&include_all_commits=true&count_private=true)](https://github.com/minibugdev?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minibugdev&layout=compact)](https://github.com/minibugdev?tab=repositories)
